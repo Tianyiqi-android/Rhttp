@@ -2,7 +2,7 @@ package com.r.http.cn.cancel;
 
 import android.annotation.TargetApi;
 import android.os.Build;
-import android.support.v4.util.ArrayMap;
+import android.util.ArrayMap;
 
 import java.util.Set;
 
